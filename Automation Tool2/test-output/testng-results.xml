@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19322" started-at="2019-09-11T12:17:59Z" finished-at="2019-09-11T12:18:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19322" started-at="2019-09-11T12:17:59Z" finished-at="2019-09-11T12:18:18Z">
+      <class name="pageobjectmodelusingpagefactorydesignpattern.CreateProject">
+        <test-method status="PASS" signature="openBRowser()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateProject@68be2bc2]" name="openBRowser" is-config="true" duration-ms="6256" started-at="2019-09-11T17:47:59Z" finished-at="2019-09-11T17:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBRowser -->
+        <test-method status="PASS" signature="loginToActiTime()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateProject@68be2bc2]" name="loginToActiTime" is-config="true" duration-ms="349" started-at="2019-09-11T17:48:05Z" finished-at="2019-09-11T17:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToActiTime -->
+        <test-method status="PASS" signature="testCreateProject()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateProject@68be2bc2]" name="testCreateProject" duration-ms="10072" started-at="2019-09-11T17:48:06Z" finished-at="2019-09-11T17:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProject -->
+        <test-method status="PASS" signature="logoutFromActitime()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateProject@68be2bc2]" name="logoutFromActitime" is-config="true" duration-ms="507" started-at="2019-09-11T17:48:16Z" finished-at="2019-09-11T17:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromActitime -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateProject@68be2bc2]" name="closeBrowser" is-config="true" duration-ms="2104" started-at="2019-09-11T17:48:16Z" finished-at="2019-09-11T17:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pageobjectmodelusingpagefactorydesignpattern.CreateProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
